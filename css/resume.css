@@ -163,11 +163,11 @@ section.resume-section .resume-item .resume-date {
 }
 
 .bg-primary {
-  background-color: #0470DC !important;
+  background-color: #0466C8 !important;
 }
 
 .text-primary {
-  color: #0470DC !important;
+  color: #0466C8 !important;
 }
 
 .text-secondary {
@@ -175,10 +175,10 @@ section.resume-section .resume-item .resume-date {
 }
 
 a {
-  color: #0470DC;
+  color: #0466C8;
 }
 
 a:hover, a:focus, a:active {
-  color: #0470DC;
+  color: #0466C8;
 }
 nobr  {  white-space: nowrap;  hyphens: none;  }
